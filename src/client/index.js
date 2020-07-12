@@ -12,3 +12,4 @@ export{
     checkForName,
     handleSubmit
 }
+alert("haiii");
